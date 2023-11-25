@@ -1,5 +1,5 @@
 # work-day-planner
-I created a work day planner that allows the user to save events for their day. 
+I created a work day planner that allows the user to save events for their day. git add
 ## User Story
 
 ```md
@@ -26,4 +26,8 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-The following animation demonstrates the application functionality:
+Link to site: https://ajcasablanca.github.io/work-day-planner/
+
+GitHub Repo: https://github.com/ajcasablanca/work-day-planner
+
+![Screenshot](assets/images/Screenshot%202023-11-25%20083344.png)
